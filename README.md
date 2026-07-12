@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/Msumankumar05/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
@@ -19,9 +20,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
