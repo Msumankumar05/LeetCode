@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Msumankumar05/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Msumankumar05/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Msumankumar05/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Msumankumar05/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/Msumankumar05/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Msumankumar05/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Msumankumar05/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
