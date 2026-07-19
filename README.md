@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Msumankumar05/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Msumankumar05/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Msumankumar05/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/Msumankumar05/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Msumankumar05/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -28,16 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Msumankumar05/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/Msumankumar05/LeetCode/tree/main/0561-array-partition/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Msumankumar05/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +65,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Msumankumar05/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Msumankumar05/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
